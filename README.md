@@ -9,14 +9,14 @@ Create IAM user with adminstartive and get access_key and secret_key and paste i
   https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
  # Run Bellow Command
-  teraform plan 
-  teraform apply
-  teraform destroy
+  teraform plan   
+  teraform apply  
+  teraform destroy  
 
  # Check in aws
-  You will get one Security group with name "terraformsg"
-  You will get one key pair with name "terraform"
-   You will get one ec2 with name "WebServer01"
+  You will get one Security group with name "terraformsg"  
+  You will get one key pair with name "terraform"  
+   You will get one ec2 with name "WebServer01"  
  
 
 

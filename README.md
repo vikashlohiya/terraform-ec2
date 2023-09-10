@@ -1,4 +1,4 @@
-# terraform-ec2 with nginx
+# Create Security Group , Key Pair and Ec2 with Nginx
 
 # Create IAM user with adminstartive access
 

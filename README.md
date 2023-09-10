@@ -17,6 +17,13 @@ Create IAM user with adminstartive and get access_key and secret_key and paste i
   You will get one Security group with name "terraformsg"  
   You will get one key pair with name "terraform"  
    You will get one ec2 with name "WebServer01"  
+
+# Connect EC2 
+ if you need to connect ec2 through shh file , you can download it from "private pem file/terraform.pem"  
+ Like
+ ssh -i "terraform.pem" ubuntu@ec2-[your ip of created ec2].us-west-2.compute.amazonaws.com
+ 
+    
  
 
 

@@ -2,7 +2,7 @@
 
 # Create IAM user with adminstartive access
 
-Create IAM user with adminstartive and get access_key and secret_key and paste into in aws provider
+Create IAM user with adminstartive in aws account and get access_key and secret_key and paste into in aws provider
 
  # Install Terraform on local host 
   Use below url 

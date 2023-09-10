@@ -4,7 +4,7 @@
 
 Create IAM user with adminstartive in aws account and get access_key and secret_key and paste into in aws provider
 
- # Install Terraform on local host 
+ # Install Terraform on local host and take pull of these file where terraform installed
   Use below url 
   https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
